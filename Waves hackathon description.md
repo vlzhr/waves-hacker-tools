@@ -49,14 +49,14 @@ After building a decentralised application you will have to create a user interf
 
 ## Prizes offered
 
-First place: <strong>1000 Waves</strong>
-Second place: <strong>500 Waves</strong>
-Third place: <strong>250 Waves</strong>
+First place: <strong>1000 Waves</strong><br>
+Second place: <strong>500 Waves</strong><br>
+Third place: <strong>250 Waves</strong><br>
 
 All projects are welcome to [Waves Labs](https://waveslabs.com/) where you can apply for a Waves grant after a hackathon if you decide to keep working on your solution. A sum of **34500 Waves** has already been disbursed between the projects.
 
 
 
-## Need help?
+## Need Help?
 
 We have a huge community and many specialists with whom you can discuss the appearing issues - feel free to connect us in the [Waves Dev chat](https://t.me/waves_ride_dapps_dev).

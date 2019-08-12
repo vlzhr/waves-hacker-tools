@@ -6,24 +6,24 @@ Waves is an open-source blockchain platform for cutting-edge dApps - giving you 
 
 ### Features
 
-* Waves products advantages via APIs:
+- Waves products advantages via APIs:
 
   Keeper - https://wavesplatform.com/products-keeper 
   Wallet - https://client.wavesplatform.com/
   Explorer - https://wavesexplorer.com/
   DEX - https://client.wavesplatform.com/dex
 
-* decentralised applications development
+- decentralised applications development
 
-* smart contracts on RIDE coding
+- smart contracts on RIDE coding
 
-* [client libraries](https://docs.wavesplatform.com/en/getting-started/getting-started-for-developers.html#section-08a13db1866dad205a6e3ac4c69d02c4) for the main programming languages
+- [client libraries](https://docs.wavesplatform.com/en/getting-started/getting-started-for-developers.html#section-08a13db1866dad205a6e3ac4c69d02c4) for the main programming languages
 
-* decentralised exchange API
+- decentralised exchange API
 
-* tokens issuing
+- tokens issuing
 
-* node owning and mining rewards
+- node owning and mining rewards
 
 
 

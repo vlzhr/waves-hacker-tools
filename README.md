@@ -11,5 +11,5 @@ The main instrument you will use for building dApps is <strong>RIDE programming 
 
 To build a user interface for the application you will have to use client libraries: https://docs.wavesplatform.com/en/getting-started/getting-started-for-developers.html#section-08a13db1866dad205a6e3ac4c69d02c4 - please choose some of the listed libraries that fit your skills the best for developing.
 
-Find more useful tools in the _awesome list_: https://github.com/msmolyakov/awesome-waves
+Find more useful tools in the *awesome list*: https://github.com/msmolyakov/awesome-waves
 
